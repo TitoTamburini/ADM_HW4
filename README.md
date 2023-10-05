@@ -1,4 +1,4 @@
-# ADM_HW4_GROUP22
+# Advanced Data Mining 2022/23 - Homework 4
 
 This repository contains the code related to the third homework of the course Algorithmic Methods of Data Mining and Laboratory 2022/2023.
 
