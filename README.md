@@ -18,3 +18,5 @@ This second file contains the answer to the command line question.
 
 If needed, in this nbviewer link you can find the notebook visible if any kind of problems occurs while reading the file on GitHub:
 https://nbviewer.org/github/albachiarabellaroba/GROUP22_ADM_HW4/blob/main/main.ipynb
+
+<img src = "https://github.com/TitoTamburini/HackerrankPython/assets/72445542/939e5dd6-625b-45b4-bfb0-a2b60bf8990c" width="10%" height="10%">
